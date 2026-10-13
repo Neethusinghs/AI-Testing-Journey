@@ -18,5 +18,5 @@ End-to-end projects that apply the templates.
 
 | Project | Description |
 |---|---|
-| [salesforce-login-page-automation](./Projects/salesforce-login-page-automation) | Selenium 4 + Java 17 + Maven + TestNG UI automation framework for the Salesforce login page |
+| [project_1 Salesforce login page automation](./Projects/project_1%20Salesforce%20login%20page%20automation) | Selenium 4 + Java 17 + Maven + TestNG UI automation framework for the Salesforce login page |
 | [project_2 Local testcase generator](./Projects/project_2%20Local%20testcase%20generator) | Two-screen Streamlit app that turns a Jira issue key into a test-case draft using a local Ollama LLM with a Groq fallback |
